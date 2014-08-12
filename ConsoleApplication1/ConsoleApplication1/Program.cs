@@ -13,6 +13,10 @@ namespace ConsoleApplication1
             int i = 100; 
         }
     }
+    public class Osoba2
+    {
+        const int i = 10;
+    }
     class Program
     {
         static void Main(string[] args)
