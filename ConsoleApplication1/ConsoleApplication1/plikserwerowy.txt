@@ -1,1 +1,2 @@
 sobie tekst jest jakis
+sobie dodalem tekst lokalnie
