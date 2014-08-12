@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             //komentarz
             //drugi komentarz
-            //teraz lokalnie
+            //asjdfasjdfajsd
         }
     }
 }
