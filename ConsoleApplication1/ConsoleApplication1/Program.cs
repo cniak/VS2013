@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             //komentarz
             //drugi komentarz
             //asjdfasjdfajsd
+            //glupiiiii komentarz z serwera
         }
     }
 }
