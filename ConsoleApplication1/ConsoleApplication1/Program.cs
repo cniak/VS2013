@@ -10,10 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //komentarz
-            //drugi komentarz
-            //asjdfasjdfajsd
-            //glupiiiii komentarz z serwera
+            //zmienilem zawartosc online
         }
     }
 }
