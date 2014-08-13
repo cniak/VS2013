@@ -17,6 +17,10 @@ namespace ConsoleApplication1
     {
         const int i = 10;
     }
+    public class Osoba3
+    {
+        const string s = "";
+    }
     class Program
     {
         static void Main(string[] args)
